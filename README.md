@@ -1,0 +1,1 @@
+# Oracle Java Server Runtime Environment Image
