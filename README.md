@@ -1,3 +1,3 @@
 # Oracle Java Server Runtime Environment Image
 
-Oracle Server JRE based on Ubuntu LTS
+Oracle Server JRE based on Linux Alpine
